@@ -1,8 +1,23 @@
-# Music experience case
+# Music experience case 
+Factor analysis of musical survey
 
-## Factor analysis of music survey
+## Table of contents
+1. Introduction
+2. Methodology
+3. Survey
+4. Results
 
+## Introduction
+The goal of this analysis was to gain a deeper understanding of the factors that influence individuals' decision to listen to music. This is a complex and multifaceted topic, and there are likely a variety of factors that contribute to an individual's music listening habits. In order to identify and understand these factors, a thorough and robust data analysis was conducted using dimensionality reduction. 
 
+## Methodology
+exploratory factor analysis of the 27 questions to identify latent variables using
+either PCA or ML factor analysis. We would like to have as many factors as possible, but
+you should have (1) at least three items loading on each factor (three measures of each latent
+variable); (2) minimal large cross loadings (most less than, say .4); (3) alpha greater than
+0.8.
+
+## Survey
 __A sample of American adults (age 18 or over) was asked the extent to which they agree or disagree with the following items:__
 \
 \
@@ -61,5 +76,10 @@ bands will be touring
 \
 *Q54:* Listening to some songs makes me laugh out loud
 
+## Results
 
-The goal of this analysis was to gain a deeper understanding of the factors that influence individuals' decision to listen to music. This is a complex and multifaceted topic, and there are likely a variety of factors that contribute to an individual's music listening habits. In order to identify and understand these factors, a thorough and robust data analysis was conducted using dimensionality reduction. 
+
+
+
+
+
