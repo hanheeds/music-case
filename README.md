@@ -60,6 +60,6 @@ bands will be touring
 *Q53:* I can become so absorbed in music that I forget the world around me
 \
 *Q54:* Listening to some songs makes me laugh out loud
-\
+
 
 The goal of this analysis was to gain a deeper understanding of the factors that influence individuals' decision to listen to music. This is a complex and multifaceted topic, and there are likely a variety of factors that contribute to an individual's music listening habits. In order to identify and understand these factors, a thorough and robust data analysis was conducted using dimensionality reduction. 
