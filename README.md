@@ -8,10 +8,10 @@ Factor analysis of musical survey
 4. Results
 
 ## Introduction
-The goal of this analysis was to gain a deeper understanding of the factors that influence individuals' decision to listen to music. This is a complex and multifaceted topic, and there are likely a variety of factors that contribute to an individual's music listening habits. In order to identify and understand these factors, a thorough and robust data analysis was conducted using dimensionality reduction. 
+The goal of this analysis was to gain a deeper understanding of the factors that influence individuals' decision to listen to music. This is a complex and multifaceted topic, and there are likely a variety of factors that contribute to an individual's music listening habits. In order to identify and understand these factors, a thorough and robust data analysis was conducted using dimensionality reduction. The dataset was gained form . 
 
 ## Methodology
-exploratory factor analysis of the 27 questions to identify latent variables using
+This is exploratory factor analysis of the 27 questions to identify latent variables using
 either PCA or ML factor analysis. We would like to have as many factors as possible, but
 you should have (1) at least three items loading on each factor (three measures of each latent
 variable); (2) minimal large cross loadings (most less than, say .4); (3) alpha greater than
